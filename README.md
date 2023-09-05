@@ -1,4 +1,4 @@
-# Web-Scraping-Using-BeautifulSoup
+# Web Scraping
 
 - Utilized BeautifulSoup and Requests libraries to send HTTP requests and retrieve HTML content.
 - Parsed the HTML content to extract relevant data using Hockey teams in the year of 1990.
